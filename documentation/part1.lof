@@ -1,0 +1,11 @@
+\contentsline {xsect}{Introduction}{2}
+\contentsline {xsect}{Development}{2}
+\contentsline {xsect}{Experimental Results}{5}
+\contentsline {figure}{\numberline {1}{\ignorespaces Original base aqueduct image}}{6}
+\contentsline {figure}{\numberline {2}{\ignorespaces Simple binarization sample}}{6}
+\contentsline {figure}{\numberline {3}{\ignorespaces Otsu's binarization sample}}{7}
+\contentsline {figure}{\numberline {4}{\ignorespaces Niblack's binarization sample 15 x 15 }}{7}
+\contentsline {figure}{\numberline {5}{\ignorespaces Niblack's binarization sample 51 x 51 }}{8}
+\contentsline {figure}{\numberline {6}{\ignorespaces Niblack's binarization sample 201 x 201 }}{8}
+\contentsline {figure}{\numberline {7}{\ignorespaces Original barcode image}}{9}
+\contentsline {figure}{\numberline {8}{\ignorespaces Connected regions execution barcode image}}{9}
